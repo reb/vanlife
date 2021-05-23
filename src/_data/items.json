@@ -146,5 +146,39 @@
       "Upward facing with a side lamp": "available",
       "Wooden cube lamp": "available"
     }
+  },
+  {
+    "name": "Drying rack",
+    "description": "Brabantia T-Model drying rack with 66 ft of drying lines",
+    "price": 40,
+    "sold": false,
+    "image": "/static/images/drying_rack_1.jpg",
+    "images": [
+      "/static/images/drying_rack_2.jpg",
+      "/static/images/drying_rack_3.jpg"
+    ],
+    "data": {
+      "Original price": "$85",
+      "Length":"75\"",
+      "Width": "24\"",
+      "Height": "35\""
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B007P3NASO",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
+    "name": "Laundry basket",
+    "price": 10,
+    "sold": false,
+    "image": "/static/images/laundry_basket.jpg",
+    "data": {
+      "Length":"18\"",
+      "Width": "18\"",
+      "Height": "24\""
+    }
   }
 ]
