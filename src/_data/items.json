@@ -17,6 +17,22 @@
     }
   },
   {
+    "name": "Table lamp",
+    "description": "Industrial pulley table lamp",
+    "price": 25,
+    "sold": false,
+    "image": "/static/images/table_lamp.jpg",
+    "data": {
+      "Original price": "$50"
+    },
+    "links": [
+      {
+        "url": "https://www.costco.com/industrial-pulley-table-lamp.product.100481790.html",
+        "name": "Product description"
+      }
+    ]
+  },
+  {
     "name": "Standing desk office set",
     "description": "Full work-from-home office furniture set. Converting standing desk with desktop mounted power strip, arm-mounted monitor, stepping machine with exercise mat and desk chair. The frame allows a range of desktop sizes to make a bigger or smaller desk.  Send a message for individual pieces",
     "price": 750,
