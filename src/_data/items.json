@@ -83,6 +83,44 @@
     ]
   },
   {
+    "name": "Desk with chair",
+    "description": "Minimal work from home setup. IKEA desk with height adjustable legs and office chair with rollerblade wheels. Power strip with USB ports included.",
+    "price": 110,
+    "sold": false,
+    "image": "/static/images/desk_1.jpg",
+    "images": [
+      "/static/images/desk_2.jpg",
+      "/static/images/office_stool.jpg"
+    ],
+    "data": {
+      "Original price": "$210",
+      "Length": "59\"",
+      "Width": "29 1/2\"",
+      "Height": "variable"
+    },
+    "links": [
+      {
+        "url": "https://www.ikea.com/us/en/p/olov-leg-adjustable-black-30264301/",
+        "name": "Desk legs"
+      },
+      {
+        "url": "https://www.costco.com/hon-vl210-series-black-mesh-low-back-task-chair.product.11612530.html",
+        "name": "Office chair"
+      },
+      {
+        "url": "https://www.amazon.com/gp/product/B08CKSJXKG",
+        "name": "Power strip"
+      }
+    ]
+  },
+  {
+    "name": "Desk lamp",
+    "description": "Can also be used as a table lamp or on a nightstand, free if you want it!",
+    "price": 0,
+    "sold": false,
+    "image": "/static/images/desk_lamp.jpg"
+  },
+  {
     "name": "BBQ grill with charcoal starter",
     "description": "Barbeque grill with a chimney charcoal starter. Includes a set of tools.",
     "price": 40,
