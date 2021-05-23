@@ -118,6 +118,17 @@
     ]
   },
   {
+    "name": "Coffee table",
+    "price": 20,
+    "sold": false,
+    "image": "/static/images/coffee_table.jpg",
+    "data": {
+      "Length": "33\"",
+      "Width": "33\"",
+      "Height": "17\""
+    }
+  },
+  {
     "name": "Standing lamp",
     "description": "Various standing lamps, price per each",
     "price": 5,
