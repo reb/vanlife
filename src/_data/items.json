@@ -93,5 +93,27 @@
     "data": {
       "Original price": "$85"
     }
+  },
+  {
+    "name": "Digital Piano",
+    "description": "Full-size 88-key Williams Allegro 2 digital piano, with learning books and heigh-adjustable stand",
+    "price": 60,
+    "sold": false,
+    "image": "/static/images/piano_1.jpg",
+    "images": [
+      "/static/images/piano_2.jpg",
+      "/static/images/piano_3.jpg",
+      "/static/images/piano_4.jpg",
+      "/static/images/piano_5.jpg"
+    ],
+    "data": {
+      "Original price": "$125"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B0007WPCKE",
+        "name": "Stand"
+      }
+    ]
   }
 ]
