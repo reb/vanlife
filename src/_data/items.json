@@ -218,5 +218,27 @@
       "Width": "18\"",
       "Height": "24\""
     }
+  },
+  {
+    "name": "Bike for men",
+    "description": "Suitable for taller people (6ft 2\"), includes lock and helmet.",
+    "price": 70,
+    "sold": false,
+    "image": "/static/images/m_bike_1.jpg",
+    "images": [
+      "/static/images/m_bike_2.jpg",
+      "/static/images/m_bike_3.jpg"
+    ]
+  },
+  {
+    "name": "Bike for women",
+    "description": "Suitable for smaller people (5ft 2\"), includes lock, helmet and lights.",
+    "price": 100,
+    "sold": false,
+    "image": "/static/images/f_bike_1.jpg",
+    "images": [
+      "/static/images/f_bike_2.jpg",
+      "/static/images/f_bike_3.jpg"
+    ]
   }
 ]
