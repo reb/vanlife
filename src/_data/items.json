@@ -114,6 +114,26 @@
     ]
   },
   {
+    "name": "Sun lamp",
+    "description": "Strong sun lamp, suitable for light therapy or providing strong light for photography. Helps against winter blues.",
+    "price": 40,
+    "sold": false,
+    "image": "/static/images/solar_lamp_1.jpg",
+    "images": [
+      "/static/images/solar_lamp_2.jpg",
+      "/static/images/solar_lamp_3.jpg"
+    ],
+    "data": {
+      "New price": "$115"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B00PCN4UVU",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
     "name": "Desk lamp",
     "description": "Can also be used as a table lamp or on a nightstand, free if you want it!",
     "price": 0,
