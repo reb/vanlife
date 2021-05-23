@@ -156,6 +156,44 @@
     ]
   },
   {
+    "name": "Robot vacuum",
+    "description": "Roborock S5 robotic vacuum, includes replacement filter and mop attachement.",
+    "price": 250,
+    "sold": false,
+    "image": "/static/images/robot_1.jpg",
+    "images": [
+      "/static/images/robot_2.jpg",
+      "/static/images/robot_3.jpg"
+    ],
+    "data": {
+      "New price": "$600"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B0792BWMV4",
+        "name": "Amazon"
+      },
+      {
+        "url": "https://us.roborock.com/pages/roborock-s5",
+        "name": "Roborock"
+      }
+    ]
+  },
+  {
+    "name": "Portable vacuum",
+    "description": "Black + Decker portable vacuum, includes 4 different vacuum heads and a replacement filter.",
+    "price": 20,
+    "sold": false,
+    "image": "/static/images/vacuum_1.jpg",
+    "images": [
+      "/static/images/vacuum_2.jpg",
+      "/static/images/vacuum_3.jpg"
+    ],
+    "data": {
+      "Original price": "$45"
+    }
+  },
+  {
     "name": "Coffee table",
     "price": 20,
     "sold": false,
