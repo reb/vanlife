@@ -179,14 +179,18 @@
   },
   {
     "name": "Blender",
-    "description": "Stick blender that can be used as an immersion blender, a whisk or a chopper",
+    "description": "Brevile immersion blender that is reviewed as the best immersion blender out there! Can be used as an immersion blender, a whisk or a chopper",
     "price": 50,
     "sold": false,
     "image": "/static/images/blender.jpg",
     "data": {
-      "Original price": "$90"
+      "Original price": "$100"
     },
     "links": [
+      {
+        "url": "https://www.nytimes.com/wirecutter/reviews/best-immersion-blender/",
+        "name": "Wirecutter review"
+      },
       {
         "url": "https://www.amazon.com/gp/product/B004RF7QJW",
         "name": "Amazon"
