@@ -178,6 +178,22 @@
     ]
   },
   {
+    "name": "Waffle iron",
+    "description": "Belgian waffle maker",
+    "price": 20,
+    "sold": false,
+    "image": "/static/images/waffle_iron.jpg",
+    "data": {
+      "Original price": "$40"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B000TYBWIG",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
     "name": "Brita filter",
     "description": "10-cup Brita filter pitcher with 4 extra filters <strong>available end of June</strong>",
     "price": 5,
