@@ -194,6 +194,56 @@
     ]
   },
   {
+    "name": "Pizza steel and peel",
+    "description": ".375\" thick steel slab to bake pizza and bread on, combined with a peel matching in size. If it fits on the peel, it will fit on the steel!",
+    "price": 120,
+    "sold": false,
+    "image": "/static/images/pizza_steel_1.jpg",
+    "images": [
+      "/static/images/pizza_steel_2.jpg",
+      "/static/images/pizza_steel_3.jpg"
+    ],
+    "data": {
+      "Original price": "$170",
+      "Width": "16\""
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B00JXVNUI6",
+        "name": "Steel"
+      },
+      {
+        "url": "https://www.amazon.com/gp/product/B002JPJ0R8",
+        "name": "Peel"
+      }
+    ]
+  },
+  {
+    "name": "Baking accessories",
+    "description": "An assortment of baking utensils, contact for prices",
+    "price": "5~",
+    "sold": false,
+    "image": "/static/images/bread_1.jpg",
+    "images": [
+      "/static/images/bread_2.jpg",
+      "/static/images/bread_3.jpg",
+      "/static/images/bread_4.jpg"
+    ],
+    "data": {
+      "Digital scale": "available",
+      "Drum sifter": "available",
+      "Thermometer": "available",
+      "Bench knife": "available",
+      "Bowl scraper": "available",
+      "Rising buckets": "available",
+      "Pie pan": "available",
+      "Loaf pans": "available",
+      "Cake pans": "available",
+      "Couche": "available",
+      "Bannetons": "available"
+    }
+  },
+  {
     "name": "BBQ grill with charcoal starter",
     "description": "Barbeque grill with a chimney charcoal starter. Includes a set of tools.",
     "price": 40,
