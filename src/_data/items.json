@@ -134,13 +134,6 @@
     ]
   },
   {
-    "name": "Desk lamp",
-    "description": "Can also be used as a table lamp or on a nightstand, free if you want it!",
-    "price": 0,
-    "sold": false,
-    "image": "/static/images/desk_lamp.jpg"
-  },
-  {
     "name": "BBQ grill with charcoal starter",
     "description": "Barbeque grill with a chimney charcoal starter. Includes a set of tools.",
     "price": 40,
@@ -299,6 +292,18 @@
       "/static/images/f_rain_gear_1.jpg",
       "/static/images/f_bike_3.jpg",
       "/static/images/f_rain_gear_2.jpg"
+    ]
+  },
+  {
+    "name": "Free stuff",
+    "description": "General household items that are going to be thrown away if not picked up, from garden chairs to light electronics.",
+    "price": 0,
+    "sold": false,
+    "image": "/static/images/viking_chairs.jpg",
+    "images": [
+      "/static/images/desk_lamp.jpg",
+      "/static/images/mouse.jpg",
+      "/static/images/headphones.jpg"
     ]
   }
 ]
