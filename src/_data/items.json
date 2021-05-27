@@ -178,6 +178,22 @@
     ]
   },
   {
+    "name": "Blender",
+    "description": "Stick blender that can be used as an immersion blender, a whisk or a chopper",
+    "price": 50,
+    "sold": false,
+    "image": "/static/images/blender.jpg",
+    "data": {
+      "Original price": "$90"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B004RF7QJW",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
     "name": "Waffle iron",
     "description": "Belgian waffle maker",
     "price": 20,
