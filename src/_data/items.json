@@ -290,13 +290,15 @@
   },
   {
     "name": "Bike for women",
-    "description": "Suitable for smaller people (5ft 2\"), includes lock, helmet and lights.",
+    "description": "Suitable for smaller people (5ft 2\"), includes lock, helmet, lights and rain gear.",
     "price": 100,
     "sold": false,
     "image": "/static/images/f_bike_1.jpg",
     "images": [
       "/static/images/f_bike_2.jpg",
-      "/static/images/f_bike_3.jpg"
+      "/static/images/f_rain_gear_1.jpg",
+      "/static/images/f_bike_3.jpg",
+      "/static/images/f_rain_gear_2.jpg"
     ]
   }
 ]
