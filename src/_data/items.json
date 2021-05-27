@@ -207,6 +207,23 @@
     }
   },
   {
+    "name": "Dining table",
+    "description": "Solid wood dinner table with 6 chairs. The length is adjustable with a removeable middle piece.",
+    "price": 75,
+    "sold": false,
+    "image": "/static/images/dinner_table_1.jpg",
+    "images": [
+      "/static/images/dinner_table_2.jpg",
+      "/static/images/dinner_table_3.jpg"
+    ],
+    "data": {
+      "Length": "60\"",
+      "Length (extended)": "72\"",
+      "Width": "40\"",
+      "Height": "30 1/2\""
+    }
+  },
+  {
     "name": "Coffee table",
     "price": 20,
     "sold": false,
