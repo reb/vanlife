@@ -162,6 +162,22 @@
     }
   },
   {
+    "name": "Electric water kettle",
+    "description": "1.8 quart electric water kettle ",
+    "price": 10,
+    "sold": false,
+    "image": "/static/images/water_kettle.jpg",
+    "data": {
+      "Original price": "$35"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B078BN5DY9",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
     "name": "Brita filter",
     "description": "10-cup Brita filter pitcher with 4 extra filters <strong>available end of June</strong>",
     "price": 5,
