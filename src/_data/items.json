@@ -251,6 +251,30 @@
     }
   },
   {
+    "name": "Pull-up bar",
+    "description": "Pull-up bar that mounts on top of a door-frame. Includes pull-up bands to fine-tune training.",
+    "price": 30,
+    "sold": false,
+    "image": "/static/images/pull_up_bar_1.jpg",
+    "images": [
+      "/static/images/resistance_bands.jpg",
+      "/static/images/pull_up_bar_2.jpg"
+    ],
+    "data": {
+      "Original price": "$95"
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B01KN17NTQ",
+        "name": "Pull-up bar"
+      },
+      {
+        "url": "https://www.amazon.com/gp/product/B0064NSJEQ",
+        "name": "Bands"
+      }
+    ]
+  },
+  {
     "name": "Standing lamp",
     "description": "Various standing lamps, price per each",
     "price": 5,
