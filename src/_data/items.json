@@ -227,7 +227,8 @@
     "images": [
       "/static/images/bread_2.jpg",
       "/static/images/bread_3.jpg",
-      "/static/images/bread_4.jpg"
+      "/static/images/bread_4.jpg",
+      "/static/images/bread_5.jpg"
     ],
     "data": {
       "Digital scale": "available",
@@ -240,7 +241,8 @@
       "Loaf pans": "available",
       "Cake pans": "available",
       "Couche": "available",
-      "Bannetons": "available"
+      "Bannetons": "available",
+      "Bread knife": "available"
     }
   },
   {
