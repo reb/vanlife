@@ -163,7 +163,7 @@
   },
   {
     "name": "Electric water kettle",
-    "description": "1.8 quart electric water kettle ",
+    "description": "1.8 quart electric water kettle. <strong>available end of June</strong>",
     "price": 10,
     "sold": false,
     "image": "/static/images/water_kettle.jpg",
@@ -179,7 +179,7 @@
   },
   {
     "name": "Blender",
-    "description": "Brevile immersion blender that is reviewed as the best immersion blender out there! Can be used as an immersion blender, a whisk or a chopper",
+    "description": "Brevile immersion blender that is reviewed as the best immersion blender out there! Can be used as an immersion blender, a whisk or a chopper. <strong>available end of June</strong>",
     "price": 50,
     "sold": false,
     "image": "/static/images/blender.jpg",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Waffle iron",
-    "description": "Belgian waffle maker",
+    "description": "Belgian waffle maker <strong>available end of June</strong>",
     "price": 20,
     "sold": false,
     "image": "/static/images/waffle_iron.jpg",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Pizza steel and peel",
-    "description": ".375\" thick steel slab to bake pizza and bread on, combined with a peel matching in size. If it fits on the peel, it will fit on the steel!",
+    "description": ".375\" thick steel slab to bake pizza and bread on, combined with a peel matching in size. If it fits on the peel, it will fit on the steel! <strong>available end of June</strong>",
     "price": 120,
     "sold": false,
     "image": "/static/images/pizza_steel_1.jpg",
@@ -256,7 +256,7 @@
   },
   {
     "name": "Baking accessories",
-    "description": "An assortment of baking utensils, contact for prices",
+    "description": "An assortment of baking utensils, contact for prices. <strong>available end of June</strong>",
     "price": "5~",
     "sold": false,
     "image": "/static/images/bread_1.jpg",
@@ -356,7 +356,7 @@
   },
   {
     "name": "Trash can",
-    "description": "black 13 gallon trash can with a spring-top lid",
+    "description": "Black 13 gallon trash can with a spring-top lid. <strong>available end of June</strong>",
     "price": 5,
     "sold": false,
     "image": "/static/images/trash_can.jpg",
