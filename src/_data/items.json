@@ -135,7 +135,7 @@
   },
   {
     "name": "Dining table",
-    "description": "Solid wood dinner table with 6 chairs. The length is adjustable with a removeable middle piece.",
+    "description": "Solid wood dinner table with 6 chairs. The length is adjustable with a removable middle piece.",
     "price": 75,
     "sold": false,
     "image": "/static/images/dinner_table_1.jpg",
@@ -163,7 +163,7 @@
   },
   {
     "name": "Electric water kettle",
-    "description": "1.8 quart electric water kettle. <strong>available end of June</strong>",
+    "description": "1.8 quart electric water kettle <strong>available end of June</strong>",
     "price": 10,
     "sold": false,
     "image": "/static/images/water_kettle.jpg",
