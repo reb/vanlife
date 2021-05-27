@@ -201,7 +201,7 @@
     "name": "Waffle iron",
     "description": "Belgian waffle maker <strong>available end of June</strong>",
     "price": 20,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/waffle_iron.jpg",
     "data": {
       "Original price": "$40"
