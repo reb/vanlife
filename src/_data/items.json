@@ -233,7 +233,7 @@
     "name": "Pizza steel and peel",
     "description": ".375\" thick steel slab to bake pizza and bread on, combined with a peel matching in size. If it fits on the peel, it will fit on the steel! <strong>available end of June</strong>",
     "price": 120,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/pizza_steel_1.jpg",
     "images": [
       "/static/images/pizza_steel_2.jpg",
