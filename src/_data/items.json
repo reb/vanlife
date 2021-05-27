@@ -351,6 +351,25 @@
     }
   },
   {
+    "name": "Trash can",
+    "description": "black 13 gallon trash can with a spring-top lid",
+    "price": 5,
+    "sold": false,
+    "image": "/static/images/trash_can.jpg",
+    "data": {
+      "Original price": "$20",
+      "Length":"17 1/2\"",
+      "Width": "14\"",
+      "Height": "25\""
+    },
+    "links": [
+      {
+        "url": "https://www.amazon.com/gp/product/B00JQRJ9YG",
+        "name": "Amazon"
+      }
+    ]
+  },
+  {
     "name": "Pull-up bar",
     "description": "Pull-up bar that mounts on top of a door-frame. Includes pull-up bands to fine-tune training.",
     "price": 30,
