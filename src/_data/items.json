@@ -162,6 +162,22 @@
     }
   },
   {
+    "name": "Brita filter",
+    "description": "10-cup Brita filter pitcher with 4 extra filters <strong>available end of June</strong>",
+    "price": 5,
+    "sold": false,
+    "image": "/static/images/brita_filter.jpg",
+    "data": {
+      "New price": "$20"
+    },
+    "links": [
+      {
+        "url": "https://www.costco.com/brita-lake-pitcher-with-2-filters.product.100387650.html",
+        "name": "Costco"
+      }
+    ]
+  },
+  {
     "name": "BBQ grill with charcoal starter",
     "description": "Barbeque grill with a chimney charcoal starter. Includes a set of tools.",
     "price": 40,
