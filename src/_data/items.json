@@ -162,6 +162,17 @@
     }
   },
   {
+    "name": "Couch",
+    "description": "Sofa bed couch, free to pick up.",
+    "price": 0,
+    "sold": false,
+    "image": "/static/images/couch_1.jpg",
+    "images": [
+      "/static/images/couch_2.jpg",
+      "/static/images/couch_3.jpg"
+    ]
+  },
+  {
     "name": "Electric water kettle",
     "description": "1.8 quart electric water kettle <strong>available end of June</strong>",
     "price": 10,
