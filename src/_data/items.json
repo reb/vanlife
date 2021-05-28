@@ -162,6 +162,23 @@
     }
   },
   {
+    "name": "Book cases",
+    "price": 5,
+    "description": "Simple book cases with adjustable shelves, price for each",
+    "sold": false,
+    "image": "/static/images/book_case_both.jpg",
+    "images": [
+      "/static/images/book_case_big.jpg",
+      "/static/images/book_case_small.jpg"
+    ],
+    "data": {
+      "Length": "24 3/4\"",
+      "Width": "9 1/2\"",
+      "Height (big)": "47 1/2\"",
+      "Height (small)": "35 1/2\""
+    }
+  },
+  {
     "name": "Couch",
     "description": "Sofa bed couch, free to pick up.",
     "price": 0,
