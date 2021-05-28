@@ -442,6 +442,17 @@
     ]
   },
   {
+    "name": "Cheap bed",
+    "description": "Older bed, with a foam mattress",
+    "price": 50,
+    "sold": false,
+    "image": "/static/images/cheap_bed_1.jpg",
+    "images": [
+      "/static/images/cheap_bed_2.jpg",
+      "/static/images/cheap_bed_3.jpg"
+    ]
+  },
+  {
     "name": "Standing lamp",
     "description": "Various standing lamps, price per each",
     "price": 5,
