@@ -162,6 +162,18 @@
     }
   },
   {
+    "name": "TV stand",
+    "price": 10,
+    "description": "Multi-layered TV stand",
+    "sold": false,
+    "image": "/static/images/tv_stand.jpg",
+    "data": {
+      "Length": "42\"",
+      "Width": "16\"",
+      "Height": "22\""
+    }
+  },
+  {
     "name": "Book cases",
     "price": 5,
     "description": "Simple book cases with adjustable shelves, price for each",
