@@ -20,7 +20,7 @@
     "name": "Table lamp",
     "description": "Industrial pulley table lamp",
     "price": 25,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/table_lamp.jpg",
     "data": {
       "Original price": "$50"
@@ -117,7 +117,7 @@
     "name": "Sun lamp",
     "description": "Strong sun lamp, suitable for light therapy or providing strong light for photography. Helps against winter blues.",
     "price": 40,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/solar_lamp_1.jpg",
     "images": [
       "/static/images/solar_lamp_2.jpg",
