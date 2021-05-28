@@ -165,7 +165,7 @@
     "name": "TV stand",
     "price": 10,
     "description": "Multi-layered TV stand",
-    "sold": false,
+    "sold": true,
     "image": "/static/images/tv_stand.jpg",
     "data": {
       "Length": "42\"",
@@ -476,7 +476,7 @@
       "Flexible bendy colorful flower lamp": "sold",
       "Upward facing black and white lamp": "sold",
       "Upward facing with a side lamp": "available",
-      "Wooden cube lamp": "available"
+      "Wooden cube lamp": "sold"
     }
   },
   {
