@@ -137,7 +137,7 @@
     "name": "Dining table",
     "description": "Solid wood dinner table with 6 chairs. The length is adjustable with a removable middle piece.",
     "price": 75,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/dinner_table_1.jpg",
     "images": [
       "/static/images/dinner_table_2.jpg",
@@ -177,7 +177,7 @@
     "name": "Book cases",
     "price": 5,
     "description": "Simple book cases with adjustable shelves, price for each",
-    "sold": false,
+    "sold": true,
     "image": "/static/images/book_case_both.jpg",
     "images": [
       "/static/images/book_case_big.jpg",
@@ -204,7 +204,7 @@
     "name": "Couch",
     "description": "Sofa bed couch, free to pick up.",
     "price": 0,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/couch_1.jpg",
     "images": [
       "/static/images/couch_2.jpg",
@@ -396,7 +396,7 @@
     "name": "Portable vacuum",
     "description": "Black + Decker portable vacuum, includes 4 different vacuum heads and a replacement filter.",
     "price": 20,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/vacuum_1.jpg",
     "images": [
       "/static/images/vacuum_2.jpg",
