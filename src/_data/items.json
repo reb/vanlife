@@ -515,7 +515,7 @@
     ]
   },
   {
-    "name": "Cheap bed",
+    "name": "Simple bed",
     "description": "Older bed, with a foam mattress",
     "price": 50,
     "sold": false,
