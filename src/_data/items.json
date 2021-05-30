@@ -33,9 +33,9 @@
     ]
   },
   {
-    "name": "Standing desk office set",
-    "description": "Full work-from-home office furniture set. Converting standing desk with desktop mounted power strip, arm-mounted monitor, stepping machine with exercise mat and desk chair. The frame allows a range of desktop sizes to make a bigger or smaller desk.  The desk chair has it's casters replaced with rollerblade wheels to protect wooden floors. Send a message for individual pieces",
-    "price": 750,
+    "name": "Standing desk",
+    "description": "Converting standing desk with desktop mounted power strip. A simple IKEA desktop is mounted, but the frame allows a wide range of desktop sizes to make a bigger or smaller desk.",
+    "price": 300,
     "sold": false,
     "image": "/static/images/office_high_1.jpg",
     "images": [
@@ -46,7 +46,7 @@
 
     ],
     "data": {
-      "Original price": "$1100",
+      "Original price": "$400",
       "Length": "59\"",
       "Width": "29 1/2\"",
       "Height": "variable"
@@ -59,7 +59,33 @@
       {
         "url": "https://www.fully.com/accessories/wire-management/clamp-mounted-surge-protector.html",
         "name": "Desktop mounted power strip"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Office chair",
+    "description": "Comfortable office chair with arm rests and lumbar support. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
+    "price": 100,
+    "sold": false,
+    "data": {
+      "Original price": "$200"
+    },
+    "links": [
+      {
+        "url": "https://www.costco.com/hon-vl700-series-black-mesh-swiveltilt-mid-back-chair.product.11612532.html",
+        "name": "Costco"
+      }
+    ]
+  },
+  {
+    "name": "Monitor with arm",
+    "description": "Desktop mounted monitor arm and 24\" widescreen (1920 x 1200) monitor.",
+    "price": 250,
+    "sold": false,
+    "data": {
+      "Original price": "$400"
+    },
+    "links": [
       {
         "url": "https://www.bhphotovideo.com/c/product/1090259-REG/dell_u2415_24_ultrasharp_led_monitor.html",
         "name": "24\" Monitor"
@@ -67,11 +93,18 @@
       {
         "url": "https://www.fully.com/accessories/monitor-arms/jarvis-monitor-arm.html",
         "name": "Monitor arm"
-      },
-      {
-        "url": "https://www.costco.com/hon-vl700-series-black-mesh-swiveltilt-mid-back-chair.product.11612532.html",
-        "name": "Desk chair"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Elliptical stepper",
+    "description": "Under desk elliptical stepper that can be used in a sitting or standing position. Including equipment mat to prevent floor damage and make standing at the desk more comfortable.",
+    "price": 70,
+    "sold": false,
+    "data": {
+      "Original price": "$150"
+    },
+    "links": [
       {
         "url": "https://www.amazon.com/gp/product/B009N9PX2O",
         "name": "Elliptical stepper"
