@@ -429,7 +429,7 @@
     "name": "Pull-up bar",
     "description": "Pull-up bar that mounts on top of a door-frame. Includes pull-up bands to fine-tune training.",
     "price": 30,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/pull_up_bar_1.jpg",
     "images": [
       "/static/images/resistance_bands.jpg",
@@ -528,7 +528,7 @@
     "name": "Bike for women",
     "description": "Suitable for smaller people (5ft 2\"), includes lock, helmet, lights and rain gear.",
     "price": 100,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/f_bike_1.jpg",
     "images": [
       "/static/images/f_bike_2.jpg",
