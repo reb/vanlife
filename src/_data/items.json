@@ -1,9 +1,9 @@
 [
   {
-    "name": "Bedroom set",
-    "description": "Bedroom furniture set with pocket spring mattress, only 1.5 years old. Includes a bed with box-springs, a vertical dresser with mirror, two nightstands and a horizontal dresser. Send a message for individual pieces",
-    "price": 600,
-    "sold": false,
+    "name": "Bed with nightstands",
+    "description": "Bed with box-springs and a pocket spring mattrass. Includes matching nightstands, only 1.5 years old.",
+    "price": 400,
+    "sold": true,
     "image": "/static/images/bed_1.jpg",
     "images": [
       "/static/images/bed_2.jpg",
@@ -12,8 +12,29 @@
       "/static/images/horizontal_dresser.jpg"
     ],
     "data": {
-      "Original price": "$1300",
       "Bed size": "Queen"
+    }
+  },
+  {
+    "name": "Standing dresser",
+    "description": "Standing dresser with 5 drawers, part of the same furniture set as the bed.",
+    "price": 100,
+    "sold": true,
+    "data": {
+      "Length": "31 1/4\"",
+      "Width": "15 3/4\"",
+      "Height": "48 1/2\""
+    }
+  },
+  {
+    "name": "Horizontal dresser",
+    "description": "Horizontal dresser with 6 drawers and a mirror that can be mounted on top. Mirror has never been used, is still in original packaging.",
+    "price": 100,
+    "sold": false,
+    "data": {
+      "Length": "58 1/4\"",
+      "Width": "15 3/4\"",
+      "Height": "33 1/2\""
     }
   },
   {
