@@ -116,9 +116,9 @@
     ]
   },
   {
-    "name": "Desk with chair",
-    "description": "Minimal work from home setup. IKEA desk with height adjustable legs and office chair with rollerblade wheels. Power strip with USB ports included.",
-    "price": 110,
+    "name": "Desk",
+    "description": "IKEA desk with height adjustable legs. Power strip with USB ports included.",
+    "price": 50,
     "sold": false,
     "image": "/static/images/desk_1.jpg",
     "images": [
@@ -126,7 +126,7 @@
       "/static/images/office_stool.jpg"
     ],
     "data": {
-      "Original price": "$210",
+      "Original price": "$90",
       "Length": "59\"",
       "Width": "29 1/2\"",
       "Height": "variable"
@@ -137,12 +137,23 @@
         "name": "Desk legs"
       },
       {
-        "url": "https://www.costco.com/hon-vl210-series-black-mesh-low-back-task-chair.product.11612530.html",
-        "name": "Office chair"
-      },
-      {
         "url": "https://www.amazon.com/gp/product/B08CKSJXKG",
         "name": "Power strip"
+      }
+    ]
+  },
+  {
+    "name": "Simple office chair",
+    "description": "Simple office chair without arm rests. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
+    "price": 60,
+    "sold": false,
+    "data": {
+      "Original price": "$120"
+    },
+    "links": [
+      {
+        "url": "https://www.costco.com/hon-vl210-series-black-mesh-low-back-task-chair.product.11612530.html",
+        "name": "Costco"
       }
     ]
   },
