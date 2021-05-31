@@ -87,7 +87,7 @@
     "name": "Office chair",
     "description": "Comfortable office chair with arm rests and lumbar support. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
     "price": 100,
-    "sold": false,
+    "sold": true,
     "data": {
       "Original price": "$200"
     },
