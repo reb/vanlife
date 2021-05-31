@@ -415,7 +415,7 @@
     "name": "Digital Piano",
     "description": "Full-size 88-key Williams Allegro 2 digital piano, with learning books and height-adjustable stand",
     "price": 60,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/piano_1.jpg",
     "images": [
       "/static/images/piano_2.jpg",
