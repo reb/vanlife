@@ -610,8 +610,7 @@
     "image": "/static/images/viking_chairs.jpg",
     "images": [
       "/static/images/desk_lamp.jpg",
-      "/static/images/mouse.jpg",
-      "/static/images/headphones.jpg"
+      "/static/images/mouse.jpg"
     ]
   }
 ]
