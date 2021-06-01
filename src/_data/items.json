@@ -516,7 +516,7 @@
   },
   {
     "name": "Simple bed",
-    "description": "Older bed, with a foam mattress",
+    "description": "Older bed, with a foam mattress <strong>available end of June</strong>",
     "price": 50,
     "sold": false,
     "image": "/static/images/cheap_bed_1.jpg",
