@@ -218,7 +218,7 @@
   {
     "name": "Coffee table",
     "price": 20,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/coffee_table.jpg",
     "data": {
       "Length": "33\"",
@@ -348,7 +348,7 @@
     "name": "Brita filter",
     "description": "10-cup Brita filter pitcher with 4 extra filters <strong>available end of June</strong>",
     "price": 5,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/brita_filter.jpg",
     "data": {
       "New price": "$20"
@@ -437,7 +437,7 @@
     "name": "Robot vacuum",
     "description": "Roborock S5 robotic vacuum, includes replacement filter and mop attachement.",
     "price": 250,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/robot_1.jpg",
     "images": [
       "/static/images/robot_2.jpg",
