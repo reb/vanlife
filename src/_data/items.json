@@ -607,9 +607,8 @@
     "description": "General household items that are going to be thrown away if not picked up, from garden chairs to light electronics.",
     "price": 0,
     "sold": false,
-    "image": "/static/images/viking_chairs.jpg",
+    "image": "/static/images/desk_lamp.jpg",
     "images": [
-      "/static/images/desk_lamp.jpg",
       "/static/images/mouse.jpg"
     ]
   }
