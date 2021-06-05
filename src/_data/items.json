@@ -70,7 +70,7 @@
       "Original price": "$400",
       "Length": "59\"",
       "Width": "29 1/2\"",
-      "Height": "variable"
+      "Height": "30\" to 47\""
     },
     "links": [
       {
@@ -99,21 +99,17 @@
     ]
   },
   {
-    "name": "Monitor with arm",
-    "description": "Desktop mounted monitor arm and 24\" widescreen (1920 x 1200) monitor.",
-    "price": 250,
+    "name": "24 \" Monitor",
+    "description": "Dell 24\" widescreen (1920 x 1200) monitor. Monitor arm available for an extra $100.",
+    "price": 150,
     "sold": false,
     "data": {
-      "Original price": "$400"
+      "Original price": "$275"
     },
     "links": [
       {
         "url": "https://www.bhphotovideo.com/c/product/1090259-REG/dell_u2415_24_ultrasharp_led_monitor.html",
         "name": "24\" Monitor"
-      },
-      {
-        "url": "https://www.fully.com/accessories/monitor-arms/jarvis-monitor-arm.html",
-        "name": "Monitor arm"
       }
     ]
   },
@@ -137,7 +133,7 @@
     ]
   },
   {
-    "name": "Desk",
+    "name": "Adjustable Desk",
     "description": "IKEA desk with height adjustable legs. Power strip with USB ports included.",
     "price": 50,
     "sold": false,
@@ -150,7 +146,7 @@
       "Original price": "$90",
       "Length": "59\"",
       "Width": "29 1/2\"",
-      "Height": "variable"
+      "Height": "24\" to 35\""
     },
     "links": [
       {
@@ -160,6 +156,24 @@
       {
         "url": "https://www.amazon.com/gp/product/B08CKSJXKG",
         "name": "Power strip"
+      }
+    ]
+  },
+  {
+    "name": "Desk",
+    "description": "IKEA desk with simple legs. Power strip with USB ports included.",
+    "price": 20,
+    "sold": false,
+    "data": {
+      "Original price": "$45",
+      "Length": "59\"",
+      "Width": "29 1/2\"",
+      "Height": "29\""
+    },
+    "links": [
+      {
+        "url": "https://www.ikea.com/us/en/p/adils-leg-black-70217973/",
+        "name": "Desk legs"
       }
     ]
   },
