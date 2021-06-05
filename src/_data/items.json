@@ -269,16 +269,6 @@
     }
   },
   {
-    "name": "Made in Abyss manga",
-    "price": 60,
-    "description": "Completed manga for Made in Abyss, all 9 volumes.",
-    "sold": false,
-    "image": "/static/images/made_in_abyss.jpg",
-    "data": {
-      "Original price": "$110"
-    }
-  },
-  {
     "name": "Couch",
     "description": "Sofa bed couch, free to pick up.",
     "price": 0,
