@@ -2,7 +2,7 @@
   {
     "name": "Horizontal dresser",
     "description": "Horizontal dresser with 6 drawers and a mirror that can be mounted on top. Mirror has never been used, is still in original packaging.",
-    "price": 100,
+    "price": 90,
     "sold": false,
     "image": "/static/images/bed_1.jpg",
     "images": [
@@ -86,7 +86,7 @@
   {
     "name": "24\" Monitor",
     "description": "Dell 24\" widescreen (1920 x 1200) monitor. Monitor arm available for an extra $100.",
-    "price": 150,
+    "price": 125,
     "sold": false,
     "data": {
       "Original price": "$275"
