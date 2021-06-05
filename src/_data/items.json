@@ -1,9 +1,9 @@
 [
   {
-    "name": "Bed with nightstands",
-    "description": "Bed with box-springs and a pocket spring mattrass. Includes matching nightstands, only 1.5 years old.",
-    "price": 400,
-    "sold": true,
+    "name": "Horizontal dresser",
+    "description": "Horizontal dresser with 6 drawers and a mirror that can be mounted on top. Mirror has never been used, is still in original packaging.",
+    "price": 100,
+    "sold": false,
     "image": "/static/images/bed_1.jpg",
     "images": [
       "/static/images/bed_2.jpg",
@@ -11,6 +11,17 @@
       "/static/images/vertical_dresser.jpg",
       "/static/images/horizontal_dresser.jpg"
     ],
+    "data": {
+      "Length": "58 1/4\"",
+      "Width": "15 3/4\"",
+      "Height": "33 1/2\""
+    }
+  },
+  {
+    "name": "Bed with nightstands",
+    "description": "Bed with box-springs and a pocket spring mattrass. Includes matching nightstands, only 1.5 years old.",
+    "price": 400,
+    "sold": true,
     "data": {
       "Bed size": "Queen"
     }
@@ -24,17 +35,6 @@
       "Length": "31 1/4\"",
       "Width": "15 3/4\"",
       "Height": "48 1/2\""
-    }
-  },
-  {
-    "name": "Horizontal dresser",
-    "description": "Horizontal dresser with 6 drawers and a mirror that can be mounted on top. Mirror has never been used, is still in original packaging.",
-    "price": 100,
-    "sold": false,
-    "data": {
-      "Length": "58 1/4\"",
-      "Width": "15 3/4\"",
-      "Height": "33 1/2\""
     }
   },
   {
@@ -84,22 +84,7 @@
     ]
   },
   {
-    "name": "Office chair",
-    "description": "Comfortable office chair with arm rests and lumbar support. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
-    "price": 100,
-    "sold": true,
-    "data": {
-      "Original price": "$200"
-    },
-    "links": [
-      {
-        "url": "https://www.costco.com/hon-vl700-series-black-mesh-swiveltilt-mid-back-chair.product.11612532.html",
-        "name": "Costco"
-      }
-    ]
-  },
-  {
-    "name": "24 \" Monitor",
+    "name": "24\" Monitor",
     "description": "Dell 24\" widescreen (1920 x 1200) monitor. Monitor arm available for an extra $100.",
     "price": 150,
     "sold": false,
@@ -133,6 +118,20 @@
     ]
   },
   {
+    "name": "Office chair",
+    "description": "Comfortable office chair with arm rests and lumbar support. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
+    "price": 100,
+    "sold": true,
+    "data": {
+      "Original price": "$200"
+    },
+    "links": [
+      {
+        "url": "https://www.costco.com/hon-vl700-series-black-mesh-swiveltilt-mid-back-chair.product.11612532.html",
+        "name": "Costco"
+      }
+    ]
+  },{
     "name": "Adjustable Desk",
     "description": "IKEA desk with height adjustable legs. Power strip with USB ports included.",
     "price": 50,
