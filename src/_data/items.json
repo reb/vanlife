@@ -532,20 +532,14 @@
     "name": "Standing lamp",
     "description": "Various standing lamps, price per each",
     "price": 5,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/standing_lamp_1.jpg",
     "images": [
       "/static/images/standing_lamp_2.jpg",
       "/static/images/standing_lamp_3.jpg",
       "/static/images/standing_lamp_4.jpg",
       "/static/images/standing_lamp_5.jpg"
-    ],
-    "data": {
-      "Flexible bendy colorful flower lamp": "sold",
-      "Upward facing black and white lamp": "sold",
-      "Upward facing with a side lamp": "available",
-      "Wooden cube lamp": "sold"
-    }
+    ]
   },
   {
     "name": "Drying rack",
