@@ -21,8 +21,9 @@ data: items
   <div class="items mb-4">
     {% for item in items %}
     {% set index = loop.index %}
+    <div id="{{ item.name | slug }}">
     {% if item.image %}
-    <div id="{{ item.name | slug }}" class="item__images row no-gutters ml-1 ml-md-0">
+    <div class="item__images row no-gutters ml-1 ml-md-0">
       <div class="col-12 col-md-6 pb-2 pr-2">
         <a href="{{ item.image }}" data-fancybox="gallery-{{ index }}">
           <div class="embed-responsive embed-responsive-1by1">
@@ -54,7 +55,8 @@ data: items
         {% endfor %}
       </ul>
     </div>
-   {% endif %}
+    {% endif %}
+    </div>
 
     <div class="item__content col col-lg-6">
       <div class="ml-2 ml-md-3 ml-xl-5">
