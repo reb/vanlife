@@ -579,7 +579,7 @@
     "name": "Bike for men",
     "description": "Suitable for taller people (6ft 2\"), includes lock and helmet.",
     "price": 70,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/m_bike_1.jpg",
     "images": [
       "/static/images/m_bike_2.jpg",
