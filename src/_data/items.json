@@ -87,7 +87,7 @@
     "name": "24\" Monitor",
     "description": "Dell 24\" widescreen (1920 x 1200) monitor. Monitor arm available for an extra $100.",
     "price": 125,
-    "sold": false,
+    "sold": true,
     "data": {
       "Original price": "$275"
     },
