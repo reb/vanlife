@@ -3,7 +3,7 @@
     "name": "Horizontal dresser",
     "description": "Horizontal dresser with 6 drawers and a mirror that can be mounted on top. Mirror has never been used, is still in original packaging.",
     "price": 90,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/bed_1.jpg",
     "images": [
       "/static/images/bed_2.jpg",
