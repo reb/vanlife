@@ -283,7 +283,7 @@
     "name": "Body scale",
     "description": "Xiaomi Mi smart body scale. Has Bluetooth to connect to other devices and measures body composition as well.",
     "price": 20,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/body_scale.jpg",
     "data": {
       "Original price": "$35"
