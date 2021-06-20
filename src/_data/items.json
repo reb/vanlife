@@ -57,7 +57,7 @@
     "name": "Standing desk",
     "description": "Converting standing desk with desktop mounted power strip. A simple IKEA desktop is mounted, but the frame allows a wide range of desktop sizes to make a bigger or smaller desk.",
     "price": 300,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/office_high_1.jpg",
     "images": [
       "/static/images/office_high_2.jpg",
