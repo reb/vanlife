@@ -102,7 +102,7 @@
     "name": "Elliptical stepper",
     "description": "Under desk elliptical stepper that can be used in a sitting or standing position. Including equipment mat to prevent floor damage and make standing at the desk more comfortable.",
     "price": 70,
-    "sold": false,
+    "sold": true,
     "data": {
       "Original price": "$150"
     },
