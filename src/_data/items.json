@@ -315,7 +315,7 @@
     "name": "Blender",
     "description": "Breville immersion blender that is reviewed as the best immersion blender out there! Can be used as an immersion blender, a whisk or a chopper. <strong>available end of June</strong>",
     "price": 50,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/blender.jpg",
     "data": {
       "Original price": "$100"
