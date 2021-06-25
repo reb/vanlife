@@ -135,7 +135,7 @@
     "name": "Adjustable Desk",
     "description": "IKEA desk with height adjustable legs. Power strip with USB ports included.",
     "price": 50,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/desk_1.jpg",
     "images": [
       "/static/images/desk_2.jpg",
