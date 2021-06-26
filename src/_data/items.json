@@ -180,7 +180,7 @@
     "name": "Simple office chair",
     "description": "Simple office chair without arm rests. Only about a year old. Has rollerblade casters that protect floors and make rolling around easier.",
     "price": 60,
-    "sold": false,
+    "sold": true,
     "data": {
       "Original price": "$120"
     },
