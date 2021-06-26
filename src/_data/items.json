@@ -299,7 +299,7 @@
     "name": "Electric water kettle",
     "description": "1.8 quart electric water kettle <strong>available end of June</strong>",
     "price": 10,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/water_kettle.jpg",
     "data": {
       "Original price": "$35"
