@@ -478,7 +478,7 @@
     "name": "Trash can",
     "description": "Black 13 gallon trash can with a spring-top lid. <strong>available end of June</strong>",
     "price": 5,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/trash_can.jpg",
     "data": {
       "Original price": "$20",
