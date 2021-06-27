@@ -544,7 +544,7 @@
   {
     "name": "Drying rack",
     "description": "Brabantia T-Model drying rack with 66 ft of drying lines",
-    "price": 40,
+    "price": 10,
     "sold": false,
     "image": "/static/images/drying_rack_1.jpg",
     "images": [
