@@ -162,7 +162,7 @@
     "name": "Desk",
     "description": "IKEA desk with simple legs. Power strip with USB ports included.",
     "price": 20,
-    "sold": false,
+    "sold": true,
     "data": {
       "Original price": "$45",
       "Length": "59\"",
@@ -567,7 +567,7 @@
   {
     "name": "Laundry basket",
     "price": 10,
-    "sold": false,
+    "sold": true,
     "image": "/static/images/laundry_basket.jpg",
     "data": {
       "Length":"18\"",
