@@ -598,15 +598,5 @@
       "/static/images/f_bike_3.jpg",
       "/static/images/f_rain_gear_2.jpg"
     ]
-  },
-  {
-    "name": "Free stuff",
-    "description": "General household items that are going to be thrown away if not picked up, from garden chairs to light electronics.",
-    "price": 0,
-    "sold": false,
-    "image": "/static/images/desk_lamp.jpg",
-    "images": [
-      "/static/images/mouse.jpg"
-    ]
   }
 ]
